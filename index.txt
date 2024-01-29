@@ -1,1 +1,2 @@
 File3 changed something to index
+File 4 changed something to index
